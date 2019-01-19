@@ -3,7 +3,7 @@
 
 全称是 `Python Enhancement Proposals`，其中 Enhancement 是增强改进的意思，Proposals 则可译为提案或建议书，所以合起来，比较常见的翻译是 `Python增强提案`或`Python改进建议书`。
 
-更多背景知识，参见：
+更多背景知识，参见：[学习Python，怎能不懂点PEP呢？ ](https://github.com/chinesehuazhou/peps-cn/blob/master/%E5%AD%A6%E4%B9%A0Python%EF%BC%8C%E6%80%8E%E8%83%BD%E4%B8%8D%E6%87%82%E7%82%B9PEP%E5%91%A2%EF%BC%9F.md)
 
 ## 如何参与翻译？
 
@@ -17,14 +17,25 @@
 
 ## 翻译成果
 
-（由于版权缘故，未获得译者授权的PEP，只放链接）
+（由于版权缘故，未获得译者授权的PEP，未放入仓库）
 
-PEP8 --  https://dwz.cn/W01HexFD
-PEP257 --  https://dwz.cn/JLctlNLC
-PEP328 --  https://dwz.cn/4vCQJpEP
-PEP333 --  https://dwz.cn/TAXIZdzc
-PEP484 --  https://dwz.cn/dSLZgg5B
-PEP492 --  http://t.cn/EALeaL0
-PEP541 --  https://dwz.cn/ce98vc27
-PEP3107 --  http://suo.im/4xFESR
-PEP3333 --  https://dwz.cn/si3xylgw
+PEP8 -- Python编码风格指南  https://dwz.cn/W01HexFD
+
+PEP255 -- [简单的生成器](https://github.com/chinesehuazhou/peps-cn/blob/master/%5B%E8%AF%91%5D%20PEP%20255--%E7%AE%80%E5%8D%95%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8.md)
+
+PEP257 -- Docstring 约定 https://dwz.cn/JLctlNLC
+
+PEP328 -- 导入：多行及绝对/相对 https://dwz.cn/4vCQJpEP
+
+PEP333 -- Python Web服务器网关接口v1.0 https://dwz.cn/TAXIZdzc
+
+PEP484 -- 类型提示 https://dwz.cn/dSLZgg5B
+
+PEP492 -- 使用async和await语法的协程 http://t.cn/EALeaL0
+
+PEP541 -- 包索引名的保留 https://dwz.cn/ce98vc27
+
+PEP3107 -- 函数注解 http://suo.im/4xFESR
+
+PEP3333 -- PythonWeb服务器网关接口v1.0.1 https://dwz.cn/si3xylgw
+

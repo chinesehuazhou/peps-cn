@@ -13,7 +13,7 @@ PEP的全称是`Python Enhancement Proposals`，其中Enhancement是增强改进
 
 我个人倾向于前一个翻译，因为它更贴切。Python核心开发者主要通过邮件列表讨论问题、提议、计划等，PEP通常是汇总了多方信息，经过了部分核心开发者review和认可，最终形成的正式文档，起到了对外公示的作用，所以我认为翻译成“提案”更恰当。
 
-PEP的官网是：https://www.python.org/dev/peps/，这也就是PEP 0 的地址。其它PEP的地址是将编号拼接在后面，例如：https://www.python.org/dev/peps/pep-0020/ 就是PEP 20 的链接，以此类推。
+PEP的官网是：https://www.python.org/dev/peps/ ，这也就是PEP 0 的地址。其它PEP的地址是将编号拼接在后面，例如：https://www.python.org/dev/peps/pep-0020/  就是PEP 20 的链接，以此类推。
 
 第一个PEP诞生于2000年，现在正好是18岁成年。到目前为止，它拥有478个“兄弟姐妹”。
 
@@ -75,32 +75,59 @@ PEP的官网是：https://www.python.org/dev/peps/，这也就是PEP 0 的地址
 如前所述，PEP提案已经累积产生了478个，我们并不需要对每个PEP都熟知，没有必要。下面，我列举了一些PEP，推荐大家一读：
 
 PEP 0 -- Index of Python Enhancement Proposals
+
 PEP 7 -- Style Guide for C Code，C扩展
+
 PEP 8 -- Style Guide for Python Code，Python编码规范（必读）
+
 PEP 20 -- The Zen of Python，Python之禅
+
 PEP 202 -- List Comprehensions，列表生成式
+
 PEP 274 -- Dict Comprehensions，字典生成式
+
 PEP 234 -- Iterators，迭代器
+
 PEP 257 -- Docstring Conventions，文档注释规范
+
 PEP 279 -- The enumerate() built-in function，enumerate枚举
+
 PEP 282 -- A Logging System，日志模块
-PEP 285 -- Adding a bool type，布尔值（建议阅读《[Python对象的身份迷思：从全体公民到万物皆数](https://mp.weixin.qq.com/s/YQbk0smMTCexsi3Ytd2AzA)》）
+
+PEP 285 -- Adding a bool type，布尔值
+
 PEP 289 -- Generator Expressions，生成器表达式
+
 PEP 318 -- Decorators for Functions and Methods，装饰器
+
 PEP 342 -- Coroutines via Enhanced Generators，协程
+
 PEP 343 -- The "with" Statement，with语句
+
 PEP 380 -- Syntax for Delegating to a Subgenerator，yield from语法
+
 PEP 405 -- Python Virtual Environments，虚拟环境
+
 PEP 471 -- os.scandir() function，遍历目录
+
 PEP 484 -- Type Hints，类型约束
+
 PEP 492 -- Coroutines with async and await syntax，async/await语法
+
 PEP 498 -- Literal String Interpolation Python，字面字符串插值
+
 PEP 525 -- Asynchronous Generators，异步生成器
+
 PEP 572 -- Assignment Expressions，表达式内赋值（最具争议）
+
 PEP 3105 -- Make print a function，print改为函数
+
 PEP 3115 -- Metaclasses in Python 3000，元类
+
 PEP 3120 -- Using UTF-8 as the default source encoding，默认UTF-8
+
 PEP 3333 -- Python Web Server Gateway Interface v1.0.1，Web开发
+
 PEP 8000 -- Python Language Governance Proposal Overview，GvR老爹推出决策层后，事关新决策方案
 
 关于PEP，知乎上有两个问题，推荐大家关注：哪些PEP值得阅读（https://dwz.cn/7CHMBlLu），如何看待PEP 572（https://dwz.cn/L46jpzMB）。
@@ -116,13 +143,21 @@ PEP 8000 -- Python Language Governance Proposal Overview，GvR老爹推出决策
 我用心搜集了几篇中文翻译成果，分享给大家：
 
 PEP8 https://dwz.cn/W01HexFD
+
 PEP257 https://dwz.cn/JLctlNLC
+
 PEP328 https://dwz.cn/4vCQJpEP
+
 PEP333 https://dwz.cn/TAXIZdzc
+
 PEP484 https://dwz.cn/dSLZgg5B
+
 PEP492 http://t.cn/EALeaL0
+
 PEP541 https://dwz.cn/ce98vc27
+
 PEP3107 http://suo.im/4xFESR
+
 PEP3333 https://dwz.cn/si3xylgw
 
 最后，表达一下我的私心：
@@ -135,4 +170,3 @@ PEP3333 https://dwz.cn/si3xylgw
 
 \-----------------
 原文链接：https://mp.weixin.qq.com/s/oRoBxZ2-IyuPOf_MWyKZyw
-本文原创并首发于微信公众号【Python猫】，后台回复“爱学习”，免费获得20+本精选电子书。
