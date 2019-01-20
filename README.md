@@ -21,15 +21,15 @@
 
 PEP8 -- Python编码风格指南  https://dwz.cn/W01HexFD
 
-PEP255 -- [简单的生成器](https://github.com/chinesehuazhou/peps-cn/blob/master/%5B%E8%AF%91%5D%20PEP%20255--%E7%AE%80%E5%8D%95%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8.md)
+PEP255 -- [简单的生成器](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/255--%E7%AE%80%E5%8D%95%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8.md)
 
 PEP257 -- Docstring 约定 https://dwz.cn/JLctlNLC
 
-PEP328 -- 导入：多行及绝对/相对 https://dwz.cn/4vCQJpEP
+PEP328 -- [导入：多行及绝对/相对](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/328--%E5%AF%BC%E5%85%A5%EF%BC%8C%E5%A4%9A%E8%A1%8C%E5%8F%8A%E7%BB%9D%E5%AF%B9%E7%9B%B8%E5%AF%B9.md)
 
 PEP333 -- Python Web服务器网关接口v1.0 https://dwz.cn/TAXIZdzc
 
-PEP484 -- 类型提示 https://dwz.cn/dSLZgg5B
+PEP484 -- [类型提示](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/484--%E7%B1%BB%E5%9E%8B%E6%8F%90%E7%A4%BA.md)
 
 PEP492 -- 使用async和await语法的协程 http://t.cn/EALeaL0
 
