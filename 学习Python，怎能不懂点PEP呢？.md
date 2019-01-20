@@ -130,7 +130,7 @@ PEP 3333 -- Python Web Server Gateway Interface v1.0.1，Web开发
 
 PEP 8000 -- Python Language Governance Proposal Overview，GvR老爹推出决策层后，事关新决策方案
 
-关于PEP，知乎上有两个问题，推荐大家关注：哪些PEP值得阅读（https://dwz.cn/7CHMBlLu），如何看待PEP 572（https://dwz.cn/L46jpzMB）。
+关于PEP，知乎上有两个问题，推荐大家关注：哪些PEP值得阅读（https://dwz.cn/7CHMBlLu ），如何看待PEP 572（https://dwz.cn/L46jpzMB）。
 
 对PEP的贡献
 -------------
@@ -169,4 +169,5 @@ PEP3333 https://dwz.cn/si3xylgw
 
 
 \-----------------
+
 原文链接：https://mp.weixin.qq.com/s/oRoBxZ2-IyuPOf_MWyKZyw
