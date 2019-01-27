@@ -28,6 +28,7 @@
 - PEP484 -- [类型提示](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/484--%E7%B1%BB%E5%9E%8B%E6%8F%90%E7%A4%BA.md)
 - PEP492 -- 使用async和await语法的协程 http://t.cn/EALeaL0
 - PEP525 -- [异步生成器](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/525--%E5%BC%82%E6%AD%A5%E7%94%9F%E6%88%90%E5%99%A8.md)
+- PEP530 -- [异步推导式](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/530--%E5%BC%82%E6%AD%A5%E6%8E%A8%E5%AF%BC%E5%BC%8F.md) 
 - PEP541 -- 包索引名的保留 https://dwz.cn/ce98vc27
 - PEP3107 -- [函数注解](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3107--%E5%87%BD%E6%95%B0%E6%B3%A8%E8%A7%A3.md)
 - PEP3333 -- PythonWeb服务器网关接口v1.0.1 https://dwz.cn/si3xylgw
