@@ -19,23 +19,15 @@
 
 （由于版权缘故，未获得译者授权的PEP，未放入仓库）
 
-PEP8 -- Python编码风格指南  https://dwz.cn/W01HexFD
-
-PEP255 -- [简单的生成器](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/255--%E7%AE%80%E5%8D%95%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8.md)
-
-PEP257 -- Docstring 约定 https://dwz.cn/JLctlNLC
-
-PEP328 -- [导入：多行及绝对/相对](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/328--%E5%AF%BC%E5%85%A5%EF%BC%8C%E5%A4%9A%E8%A1%8C%E5%8F%8A%E7%BB%9D%E5%AF%B9%E7%9B%B8%E5%AF%B9.md)
-
-PEP333 -- Python Web服务器网关接口v1.0 https://dwz.cn/TAXIZdzc
-
-PEP484 -- [类型提示](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/484--%E7%B1%BB%E5%9E%8B%E6%8F%90%E7%A4%BA.md)
-
-PEP492 -- 使用async和await语法的协程 http://t.cn/EALeaL0
-
-PEP541 -- 包索引名的保留 https://dwz.cn/ce98vc27
-
-PEP3107 -- 函数注解 http://suo.im/4xFESR
-
-PEP3333 -- PythonWeb服务器网关接口v1.0.1 https://dwz.cn/si3xylgw
+- PEP8 -- Python编码风格指南  https://dwz.cn/W01HexFD
+- PEP255 -- [简单的生成器](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/255--%E7%AE%80%E5%8D%95%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8.md)
+- PEP257 -- Docstring 约定 https://dwz.cn/JLctlNLC
+- PEP328 -- [导入：多行及绝对/相对](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/328--%E5%AF%BC%E5%85%A5%EF%BC%8C%E5%A4%9A%E8%A1%8C%E5%8F%8A%E7%BB%9D%E5%AF%B9%E7%9B%B8%E5%AF%B9.md)
+- PEP333 -- Python Web服务器网关接口v1.0 https://dwz.cn/TAXIZdzc
+- PEP342 -- [增强型生成器：协程](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/342--%E5%A2%9E%E5%BC%BA%E5%9E%8B%E7%94%9F%E6%88%90%E5%99%A8%EF%BC%9A%E5%8D%8F%E7%A8%8B.md)
+- PEP484 -- [类型提示](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/484--%E7%B1%BB%E5%9E%8B%E6%8F%90%E7%A4%BA.md)
+- PEP492 -- 使用async和await语法的协程 http://t.cn/EALeaL0
+- PEP541 -- 包索引名的保留 https://dwz.cn/ce98vc27
+- PEP3107 -- [函数注解](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3107--%E5%87%BD%E6%95%B0%E6%B3%A8%E8%A7%A3.md)
+- PEP3333 -- PythonWeb服务器网关接口v1.0.1 https://dwz.cn/si3xylgw
 
