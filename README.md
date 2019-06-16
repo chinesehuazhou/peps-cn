@@ -31,6 +31,7 @@
 - PEP525 -- [异步生成器](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/525--%E5%BC%82%E6%AD%A5%E7%94%9F%E6%88%90%E5%99%A8.md)
 - PEP530 -- [异步推导式](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/530--%E5%BC%82%E6%AD%A5%E6%8E%A8%E5%AF%BC%E5%BC%8F.md) 
 - PEP541 -- 包索引名的保留 https://dwz.cn/ce98vc27
+- PEP3105 -- [改 print 为函数](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3105--%E6%94%B9%20print%20%E4%B8%BA%E5%87%BD%E6%95%B0.md)
 - PEP3107 -- [函数注解](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3107--%E5%87%BD%E6%95%B0%E6%B3%A8%E8%A7%A3.md)
 - PEP3333 -- PythonWeb服务器网关接口v1.0.1 https://dwz.cn/si3xylgw
 
