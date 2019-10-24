@@ -38,6 +38,7 @@
 - PEP530 -- [异步推导式](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/530--%E5%BC%82%E6%AD%A5%E6%8E%A8%E5%AF%BC%E5%BC%8F.md) 
 - PEP541 -- 包索引名的保留 https://dwz.cn/ce98vc27
 - PEP570 -- Positional-Only 参数 https://mp.weixin.qq.com/s/gxEmUs8f9tVqhfd5kERDCg
+- PEP3099 -- [Python 3 中不会改变的事情](https://github.com/chinesehuazhou/peps-cn/blob/master/Informational/3099--Python%203%20%E4%B8%AD%E4%B8%8D%E4%BC%9A%E6%94%B9%E5%8F%98%E7%9A%84%E4%BA%8B%E6%83%85.md)
 - PEP3105 -- [改 print 为函数](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3105--%E6%94%B9%20print%20%E4%B8%BA%E5%87%BD%E6%95%B0.md)
 - PEP3107 -- [函数注解](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3107--%E5%87%BD%E6%95%B0%E6%B3%A8%E8%A7%A3.md)
 - PEP3333 -- PythonWeb服务器网关接口v1.0.1 https://dwz.cn/si3xylgw
