@@ -9,10 +9,15 @@ Python 3 是比较大胆激进的，抛弃了前一版本的很多陈旧的包�
 ------
 
 **PEP原文：** https://www.python.org/dev/peps/pep-0399
+
 **PEP标题：** Things that will Not Change in Python 3000
+
 **PEP作者：** Georg Brandl
+
 **创建日期：** 2006-04-04
+
 **译者**：[豌豆花下猫](https://zhuanlan.zhihu.com/pythonCat)（**Python猫** 公众号作者）
+
 **翻译计划**：https://github.com/chinesehuazhou/peps-cn
 
 --------------------
