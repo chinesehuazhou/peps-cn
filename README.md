@@ -41,6 +41,7 @@
 - PEP3099 -- [Python 3 中不会改变的事情](https://github.com/chinesehuazhou/peps-cn/blob/master/Informational/3099--Python%203%20%E4%B8%AD%E4%B8%8D%E4%BC%9A%E6%94%B9%E5%8F%98%E7%9A%84%E4%BA%8B%E6%83%85.md)
 - PEP3105 -- [改 print 为函数](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3105--%E6%94%B9%20print%20%E4%B8%BA%E5%87%BD%E6%95%B0.md)
 - PEP3107 -- [函数注解](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3107--%E5%87%BD%E6%95%B0%E6%B3%A8%E8%A7%A3.md)
+- PEP3129 -- [类装饰器](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3129--%E7%B1%BB%E8%A3%85%E9%A5%B0%E5%99%A8.md)
 - PEP3333 -- PythonWeb服务器网关接口v1.0.1 https://dwz.cn/si3xylgw
 
 
