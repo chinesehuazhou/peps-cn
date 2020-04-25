@@ -25,27 +25,32 @@
 
 （由于版权缘故，未获得译者授权的PEP，未放入仓库）
 
-- PEP8 -- Python编码风格指南  https://dwz.cn/W01HexFD
+- PEP8 -- [Python编码风格指南](https://dwz.cn/W01HexFD)
 - PEP255 -- [简单的生成器](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/255--%E7%AE%80%E5%8D%95%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8.md)
-- PEP257 -- Docstring 约定 https://dwz.cn/JLctlNLC
+- PEP257 -- [Docstring 约定](https://dwz.cn/JLctlNLC)
 - PEP318 -- [函数和方法的装饰器](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/318--%E5%87%BD%E6%95%B0%E5%92%8C%E6%96%B9%E6%B3%95%E7%9A%84%E8%A3%85%E9%A5%B0%E5%99%A8.md)
 - PEP328 -- [导入：多行及绝对/相对](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/328--%E5%AF%BC%E5%85%A5%EF%BC%8C%E5%A4%9A%E8%A1%8C%E5%8F%8A%E7%BB%9D%E5%AF%B9%E7%9B%B8%E5%AF%B9.md)
-- PEP333 -- Python Web服务器网关接口v1.0 https://dwz.cn/TAXIZdzc
+- PEP333 -- [Python Web服务器网关接口v1.0](https://dwz.cn/TAXIZdzc)
 - PEP342 -- [增强型生成器：协程](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/342--%E5%A2%9E%E5%BC%BA%E5%9E%8B%E7%94%9F%E6%88%90%E5%99%A8%EF%BC%9A%E5%8D%8F%E7%A8%8B.md)
 - PEP380 -- [子生成器的语法](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/380--%E5%AD%90%E7%94%9F%E6%88%90%E5%99%A8%E7%9A%84%E8%AF%AD%E6%B3%95.md)
-- PEP484 -- [类型提示](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/484--%E7%B1%BB%E5%9E%8B%E6%8F%90%E7%A4%BA.md)
-- PEP492 -- 使用async和await语法的协程 http://t.cn/EALeaL0
-- PEP518 -- 指定构建Python项目的最低系统要求 https://blog.csdn.net/weixin_38382105/article/details/80331816
+- PEP443 -- [单分派泛型函数（Single-dispatch generic functions）](https://www.cnblogs.com/popapa/p/PEP443.html)
+- PEP482 -- [类型提示的文档性概述（Literature Overview for Type Hints）](https://www.cnblogs.com/popapa/p/PEP482.html)
+- PEP483 -- [类型提示的理论（The Theory of Type Hints）](https://www.cnblogs.com/popapa/p/PEP483.html)
+- PEP484 -- [类型提示](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/484--%E7%B1%BB%E5%9E%8B%E6%8F%90%E7%A4%BA.md) \ [另一篇译文](https://www.cnblogs.com/popapa/p/PEP484.html)
+- PEP492 -- [使用async和await语法的协程](http://t.cn/EALeaL0)
+- PEP518 --  [指定构建Python项目的最低系统要求](https://blog.csdn.net/weixin_38382105/article/details/80331816)
 - PEP525 -- [异步生成器](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/525--%E5%BC%82%E6%AD%A5%E7%94%9F%E6%88%90%E5%99%A8.md)
+- PEP526 -- [变量注解的语法（Syntax for Variable Annotations）](https://www.cnblogs.com/popapa/p/PEP526.html)
 - PEP530 -- [异步推导式](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/530--%E5%BC%82%E6%AD%A5%E6%8E%A8%E5%AF%BC%E5%BC%8F.md) 
-- PEP541 -- 包索引名的保留 https://dwz.cn/ce98vc27
-- PEP570 -- Positional-Only 参数 https://mp.weixin.qq.com/s/gxEmUs8f9tVqhfd5kERDCg
+- PEP541 -- [包索引名的保留](https://dwz.cn/ce98vc27)
+- PEP570 -- [Positional-Only 参数](https://mp.weixin.qq.com/s/gxEmUs8f9tVqhfd5kERDCg)
 - PEP614 -- [放宽对装饰器的语法限制](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/614--%E6%94%BE%E5%AE%BD%E5%AF%B9%E8%A3%85%E9%A5%B0%E5%99%A8%E7%9A%84%E8%AF%AD%E6%B3%95%E9%99%90%E5%88%B6.md)
 - PEP3099 -- [Python 3 中不会改变的事情](https://github.com/chinesehuazhou/peps-cn/blob/master/Informational/3099--Python%203%20%E4%B8%AD%E4%B8%8D%E4%BC%9A%E6%94%B9%E5%8F%98%E7%9A%84%E4%BA%8B%E6%83%85.md)
 - PEP3105 -- [改 print 为函数](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3105--%E6%94%B9%20print%20%E4%B8%BA%E5%87%BD%E6%95%B0.md)
-- PEP3107 -- [函数注解](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3107--%E5%87%BD%E6%95%B0%E6%B3%A8%E8%A7%A3.md)
+- PEP3107 -- [函数注解](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3107--%E5%87%BD%E6%95%B0%E6%B3%A8%E8%A7%A3.md) \ [另一篇译文](https://www.cnblogs.com/popapa/p/PEP3107.html)
 - PEP3129 -- [类装饰器](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3129--%E7%B1%BB%E8%A3%85%E9%A5%B0%E5%99%A8.md)
-- PEP3333 -- PythonWeb服务器网关接口v1.0.1 https://dwz.cn/si3xylgw
+- PEP3141 -- [数值类型的层次结构（A Type Hierarchy for Numbers）](https://www.cnblogs.com/popapa/p/PEP3141.html)
+- PEP3333 -- [PythonWeb服务器网关接口v1.0.1](https://dwz.cn/si3xylgw)
 
 
 
