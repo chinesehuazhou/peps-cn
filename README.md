@@ -45,6 +45,7 @@
 - PEP541 -- [包索引名的保留](https://dwz.cn/ce98vc27)
 - PEP570 -- [Positional-Only 参数](https://mp.weixin.qq.com/s/gxEmUs8f9tVqhfd5kERDCg)
 - PEP614 -- [放宽对装饰器的语法限制](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/614--%E6%94%BE%E5%AE%BD%E5%AF%B9%E8%A3%85%E9%A5%B0%E5%99%A8%E7%9A%84%E8%AF%AD%E6%B3%95%E9%99%90%E5%88%B6.md)
+- PEP618 -- [给 zip 添加可选的长度检查](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/618--%E7%BB%99%20zip%20%E6%B7%BB%E5%8A%A0%E5%8F%AF%E9%80%89%E7%9A%84%E9%95%BF%E5%BA%A6%E6%A3%80%E6%9F%A5.md)
 - PEP3099 -- [Python 3 中不会改变的事情](https://github.com/chinesehuazhou/peps-cn/blob/master/Informational/3099--Python%203%20%E4%B8%AD%E4%B8%8D%E4%BC%9A%E6%94%B9%E5%8F%98%E7%9A%84%E4%BA%8B%E6%83%85.md)
 - PEP3105 -- [改 print 为函数](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3105--%E6%94%B9%20print%20%E4%B8%BA%E5%87%BD%E6%95%B0.md)
 - PEP3107 -- [函数注解](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3107--%E5%87%BD%E6%95%B0%E6%B3%A8%E8%A7%A3.md) \ [另一篇译文](https://www.cnblogs.com/popapa/p/PEP3107.html)
