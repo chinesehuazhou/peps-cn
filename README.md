@@ -52,6 +52,7 @@
 - PEP3107 -- [函数注解](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3107--%E5%87%BD%E6%95%B0%E6%B3%A8%E8%A7%A3.md) \ [另一篇译文](https://www.cnblogs.com/popapa/p/PEP3107.html)
 - PEP3129 -- [类装饰器](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3129--%E7%B1%BB%E8%A3%85%E9%A5%B0%E5%99%A8.md)
 - PEP3141 -- [数值类型的层次结构（A Type Hierarchy for Numbers）](https://www.cnblogs.com/popapa/p/PEP3141.html)
+- PEP3155 -- [类和方法的特定名称](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3155--%E7%B1%BB%E5%92%8C%E6%96%B9%E6%B3%95%E7%9A%84%E7%89%B9%E5%AE%9A%E5%90%8D%E7%A7%B0.md) 
 - PEP3333 -- [PythonWeb服务器网关接口v1.0.1](https://dwz.cn/si3xylgw)
 
 
