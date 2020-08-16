@@ -26,6 +26,7 @@
 （由于版权缘故，未获得译者授权的PEP，未放入仓库）
 
 - PEP8 -- [Python编码风格指南](https://dwz.cn/W01HexFD)
+- PEP202 -- [列表推导式](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/202--%E5%88%97%E8%A1%A8%E6%8E%A8%E5%AF%BC%E5%BC%8F.md)
 - PEP255 -- [简单的生成器](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/255--%E7%AE%80%E5%8D%95%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8.md)
 - PEP257 -- [Docstring 约定](https://dwz.cn/JLctlNLC)
 - PEP285 -- [添加一种布尔类型](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/285--%E6%B7%BB%E5%8A%A0%E5%B8%83%E5%B0%94%E7%B1%BB%E5%9E%8B.md)
