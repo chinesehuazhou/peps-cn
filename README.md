@@ -52,19 +52,9 @@
 - PEP3105 -- [改 print 为函数](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3105--%E6%94%B9%20print%20%E4%B8%BA%E5%87%BD%E6%95%B0.md)
 - PEP3107 -- [函数注解](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3107--%E5%87%BD%E6%95%B0%E6%B3%A8%E8%A7%A3.md) \ [另一篇译文](https://www.cnblogs.com/popapa/p/PEP3107.html)
 - PEP3129 -- [类装饰器](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3129--%E7%B1%BB%E8%A3%85%E9%A5%B0%E5%99%A8.md)
-- PEP3141 -- [数值类型的层次结构（A Type Hierarchy for Numbers）](https://www.cnblogs.com/popapa/p/PEP3141.html)
+- PEP3141 -- [数值类型的层次结构（A Type Hierarchy for Numbers）](https://www.cnblogs.com/popapa/p/PEP3141.html) \ [另一篇译文](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3141--%E6%95%B0%E5%AD%97%E7%9A%84%E7%B1%BB%E5%9E%8B%E5%B1%82%E7%BA%A7.md)
 - PEP3155 -- [类和方法的特定名称](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/3155--%E7%B1%BB%E5%92%8C%E6%96%B9%E6%B3%95%E7%9A%84%E7%89%B9%E5%AE%9A%E5%90%8D%E7%A7%B0.md) 
 - PEP3333 -- [PythonWeb服务器网关接口v1.0.1](https://dwz.cn/si3xylgw) \ [另一篇译文](https://zhuanlan.zhihu.com/p/27600327)
 
 
 
-
-## 翻译交流
-
-目前，译者只有豌豆花下猫，欢迎感兴趣的同学加入翻译。
-
-已建交流群，请加豌豆花下猫（微信：chinesehuazhou），邀请入群。
-
-个人能力有限，翻译匆促，请读者批评指正！
-
-最后，请给颗小星星，鼓励一下吧。笔芯~~
