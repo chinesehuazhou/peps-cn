@@ -6,9 +6,9 @@
 
 **PEP 作者：** Gerald Britton <gerald.britton at gmail.com>
 
-**创建日期： **2009-01-12
+**创建日期：** 2009-01-12
 
-**合入版本：** 3.0
+**合入版本：** 已被 Rejected
 
 **译者：** [skyleaworlder](https://github.com/skyleaworlder)
 
