@@ -35,6 +35,7 @@
 - PEP328 -- [导入：多行及绝对/相对](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/328--%E5%AF%BC%E5%85%A5%EF%BC%8C%E5%A4%9A%E8%A1%8C%E5%8F%8A%E7%BB%9D%E5%AF%B9%E7%9B%B8%E5%AF%B9.md)
 - PEP333 -- [Python Web服务器网关接口v1.0](https://dwz.cn/TAXIZdzc)
 - PEP342 -- [增强型生成器：协程](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/342--%E5%A2%9E%E5%BC%BA%E5%9E%8B%E7%94%9F%E6%88%90%E5%99%A8%EF%BC%9A%E5%8D%8F%E7%A8%8B.md)
+- PEP343 -- [with 语句](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/343--with%E8%AF%AD%E5%8F%A5.md)
 - PEP380 -- [子生成器的语法](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/380--%E5%AD%90%E7%94%9F%E6%88%90%E5%99%A8%E7%9A%84%E8%AF%AD%E6%B3%95.md)
 - PEP443 -- [单分派泛型函数（Single-dispatch generic functions）](https://www.cnblogs.com/popapa/p/PEP443.html)
 - PEP482 -- [类型提示的文档性概述（Literature Overview for Type Hints）](https://www.cnblogs.com/popapa/p/PEP482.html)
