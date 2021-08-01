@@ -42,6 +42,7 @@
 - PEP483 -- [类型提示的理论（The Theory of Type Hints）](https://www.cnblogs.com/popapa/p/PEP483.html)
 - PEP484 -- [类型提示](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/484--%E7%B1%BB%E5%9E%8B%E6%8F%90%E7%A4%BA.md) \ [另一篇译文](https://www.cnblogs.com/popapa/p/PEP484.html)
 - PEP492 -- [使用async和await语法的协程](http://t.cn/EALeaL0)
+- PEP515 -- [数值字面量中的下划线](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/515--%E6%95%B0%E5%80%BC%E5%AD%97%E9%9D%A2%E9%87%8F%E4%B8%AD%E7%9A%84%E4%B8%8B%E5%88%92%E7%BA%BF.md) 
 - PEP518 --  [指定构建Python项目的最低系统要求](https://blog.csdn.net/weixin_38382105/article/details/80331816)
 - PEP525 -- [异步生成器](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/525--%E5%BC%82%E6%AD%A5%E7%94%9F%E6%88%90%E5%99%A8.md)
 - PEP526 -- [变量注解的语法（Syntax for Variable Annotations）](https://www.cnblogs.com/popapa/p/PEP526.html)
