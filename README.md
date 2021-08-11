@@ -32,6 +32,7 @@
 - PEP257 -- [Docstring 约定](https://dwz.cn/JLctlNLC)
 - PEP285 -- [添加一种布尔类型](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/285--%E6%B7%BB%E5%8A%A0%E5%B8%83%E5%B0%94%E7%B1%BB%E5%9E%8B.md)
 - PEP318 -- [函数和方法的装饰器](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/318--%E5%87%BD%E6%95%B0%E5%92%8C%E6%96%B9%E6%B3%95%E7%9A%84%E8%A3%85%E9%A5%B0%E5%99%A8.md)
+- PEP324 -- [subprocess-新的进程模块](https://www.cnblogs.com/popapa/p/PEP324.html) 
 - PEP328 -- [导入：多行及绝对/相对](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/328--%E5%AF%BC%E5%85%A5%EF%BC%8C%E5%A4%9A%E8%A1%8C%E5%8F%8A%E7%BB%9D%E5%AF%B9%E7%9B%B8%E5%AF%B9.md)
 - PEP333 -- [Python Web服务器网关接口v1.0](https://dwz.cn/TAXIZdzc)
 - PEP342 -- [增强型生成器：协程](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/342--%E5%A2%9E%E5%BC%BA%E5%9E%8B%E7%94%9F%E6%88%90%E5%99%A8%EF%BC%9A%E5%8D%8F%E7%A8%8B.md)
