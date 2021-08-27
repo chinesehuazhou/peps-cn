@@ -30,6 +30,7 @@
 - PEP249 -- [Python数据库API规范v2.0](https://www.biaodianfu.com/python-database-api-specification-v2.html)
 - PEP255 -- [简单的生成器](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/255--%E7%AE%80%E5%8D%95%E7%9A%84%E7%94%9F%E6%88%90%E5%99%A8.md)
 - PEP257 -- [Docstring 约定](https://dwz.cn/JLctlNLC)
+- PEP279 -- [enumerate() 内置函数](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/279--enumerate()%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0.md)
 - PEP285 -- [添加一种布尔类型](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/285--%E6%B7%BB%E5%8A%A0%E5%B8%83%E5%B0%94%E7%B1%BB%E5%9E%8B.md)
 - PEP318 -- [函数和方法的装饰器](https://github.com/chinesehuazhou/peps-cn/blob/master/StandardsTrack/318--%E5%87%BD%E6%95%B0%E5%92%8C%E6%96%B9%E6%B3%95%E7%9A%84%E8%A3%85%E9%A5%B0%E5%99%A8.md)
 - PEP324 -- [subprocess-新的进程模块](https://www.cnblogs.com/popapa/p/PEP324.html) 
